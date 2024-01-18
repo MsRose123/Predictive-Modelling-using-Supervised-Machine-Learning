@@ -1,0 +1,29 @@
+name: MLDM_assessment_2332635
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+  - base
+dependencies:
+  - python=3.8
+  - snakemake
+  - r-base
+  - r-dplyr
+  - r-naniar
+  - r-gtsummary
+  - r-magrittr
+  - r-precrec
+  - r-visdat
+  - r-data.table
+  - r-mlr3verse
+  - r-factominer
+  - r-missmda
+  - r-ggrepel
+  - bioconductor-limma
+  - r-glmnet
+  - r-naivebayes
+  - r-caret
+  - r-e1071
+  - r-boruta
+  - r-lattice
