@@ -1,4 +1,4 @@
-# Predicting Breast Cancer Progression using Multi-Omic and Clinical Data using Machine Learning Approach
+# Predicting Breast Cancer Progression based on Multi-Omic and Clinical Data using Machine Learning Approach
 
 The research aims to predict the progression of breast cancer using clinical information and multi-omic data. To compare different Machine Learning models built on combinations of different omics and clinical features (8 models built and trained on 5 ML approaches, KNN, SVM, Random Forest, naïve bayes, Logistic Regression, and Elastic Net algorithms). 
 
