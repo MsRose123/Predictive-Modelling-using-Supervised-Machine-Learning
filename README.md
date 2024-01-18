@@ -1,4 +1,8 @@
-The aim of the project is to fit and compare different machine learning approaches on The Cancer Genome Atlas Program (TCGAP) database inorder to predict breast cancer progression. The database consists of clinical information and multi-omics data. the machine learning approaches used here are svm, knn, random forest, naïve bayes and elastic net machine learning algorithms.
+# Predicting Breast Cancer Progression using Multi-Omic and Clinical Data using Machine Learning Approach
+
+The research aims to predict the progression of breast cancer using clinical information and multi-omic data. To compare different Machine Learning models built on combinations of different omics and clinical features (8 models built and trained on 5 ML approaches, KNN, SVM, Random Forest, naïve bayes, Logistic Regression, and Elastic Net algorithms). 
+
+The Cancer Genome Atlas Program (TCGAP) database will be used. The research will employ median imputations to handle missing data and feature selection for each model will be done using the Boruta feature selection method. The models will be trained using the training dataset, and the predictive power of each model will be obtained by testing using the testing dataset. Each machine learning approach will be compared on the basis of prediction accuracy to find the best approach.
 
 The application can be run using the shell script executable.sh
 Run this on command line :
